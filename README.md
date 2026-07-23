@@ -1,6 +1,6 @@
 Hi there 👋
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=luccaenr&#45;git_icon=github&custom_title=Meu%20GitHub&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=luccaenr&#45;git_icon=github&custom_title=Meu%20GitHub&show_icons=true&include_all_commits=true&theme=midnight-purple)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=luccaenr-git_icon=github&custom_title=Meu%20GitHub&show_icons=true&include_all_commits=true&theme=yellow)](https://github-stats-extended.vercel.app/api?username=luccaenr-git_icon=github&custom_title=Meu%20GitHub&show_icons=true&include_all_commits=true&theme=blue)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
