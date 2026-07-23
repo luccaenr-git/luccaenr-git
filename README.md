@@ -1,6 +1,25 @@
 Hi there 👋
+<div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=luccaenr-git_icon=github&custom_title=Meu%20GitHub&show_icons=true&include_all_commits=true&theme=yellow)](https://github-stats-extended.vercel.app/api?username=luccaenr-git_icon=github&custom_title=Meu%20GitHub&show_icons=true&include_all_commits=true&theme=blue)
+```
+────────────────────────────────────────────────────────────────────────────
+─██████─────────██████──██████─██████████████─██████████████─██████████████─
+─██░░██─────────██░░██──██░░██─██░░░░░░░░░░██─██░░░░░░░░░░██─██░░░░░░░░░░██─
+─██░░██─────────██░░██──██░░██─██░░██████████─██░░██████████─██░░██████░░██─
+─██░░██─────────██░░██──██░░██─██░░██─────────██░░██─────────██░░██──██░░██─
+─██░░██─────────██░░██──██░░██─██░░██─────────██░░██─────────██░░██████░░██─
+─██░░██─────────██░░██──██░░██─██░░██─────────██░░██─────────██░░░░░░░░░░██─
+─██░░██─────────██░░██──██░░██─██░░██─────────██░░██─────────██░░██████░░██─
+─██░░██─────────██░░██──██░░██─██░░██─────────██░░██─────────██░░██──██░░██─
+─██░░██████████─██░░██████░░██─██░░██████████─██░░██████████─██░░██──██░░██─
+─██░░░░░░░░░░██─██░░░░░░░░░░██─██░░░░░░░░░░██─██░░░░░░░░░░██─██░░██──██░░██─
+─██████████████─██████████████─██████████████─██████████████─██████──██████─
+────────────────────────────────────────────────────────────────────────────
+``` 
+
+</div>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=luccaenr-git&theme=transparent&hide_border=true&stroke=ffffff&ring=1B6BF7&fire=1B6BF7&currStreakLabel=1B6BF7&sideLabels=ffffff&dates=ffffff)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
