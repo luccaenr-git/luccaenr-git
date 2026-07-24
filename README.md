@@ -1,6 +1,8 @@
-Hi there 👋
-<div align="center">
 
+
+<div align="center">
+<h1><strong>Hi there 👋</strong></h1>
+  
 ```
 ────────────────────────────────────────────────────────────────────────────
 ─██████─────────██████──██████─██████████████─██████████████─██████████████─
@@ -15,15 +17,21 @@ Hi there 👋
 ─██░░░░░░░░░░██─██░░░░░░░░░░██─██░░░░░░░░░░██─██░░░░░░░░░░██─██░░██──██░░██─
 ─██████████████─██████████████─██████████████─██████████████─██████──██████─
 ────────────────────────────────────────────────────────────────────────────
-``` 
+```
+
+
+<p><strong>Estudande de ADS 4° Semestre - Desenvolvedor Full Stack<strong></p>
+  
+  ## Stats
+  
 ![GitHub Streak](https://streak-stats.demolab.com?user=luccaenr-git&theme=transparent&hide_border=true&stroke=ffffff&ring=1B6BF7&fire=1B6BF7&currStreakLabel=1B6BF7&sideLabels=ffffff&dates=ffffff)
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luccaenr-git&theme=github-compact&hide_border=true&area=true&color=1B6BF7&line=ffffff&point=ffffff)
 
-
+  ## Skills
 
 <div style="display: inline_block"><br>
   
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JS](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,3 +41,8 @@ Hi there 👋
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+</div>
+
+
+
+
