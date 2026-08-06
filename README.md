@@ -22,8 +22,7 @@
   
   ## Stats
   
-![GitHub Streak](https://streak-stats.demolab.com?user=luccaenr-git&theme=transparent&hide_border=true&stroke=ffffff&ring=1B6BF7&fire=1B6BF7&currStreakLabel=1B6BF7&sideLabels=ffffff&dates=ffffff)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luccaenr-git&theme=github-compact&hide_border=true&area=true&color=1B6BF7&line=1B6BF7&point=#555555)
+![Metrics](https://metrics.lecoq.io/luccaenr-git?template=classic&base.indepth=true&languages=1&languages.colors=github&languages.limit=8)
 
   ## Skills
 
