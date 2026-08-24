@@ -95,7 +95,7 @@
 </a>
 
 <a href="https://www.gmail.com">
-  <img src="gmail-logo-icon.jpg" width="40px" height="40px">
+  <img src="gmail-logo-icon-nobg.webp" width="40px" height="40px">
 </a> 
 
 </div>
