@@ -94,12 +94,6 @@
 
 </div>
 
-  ## Repositório
-
-<div style="display: inline_block"><br>
-<a href="https://www.linkedin.com/in/lucca-enriconi/" target="_blank">
-  <img src="brasil.png" width="40px" height="40px">
-
 </div>
 </div>
 
