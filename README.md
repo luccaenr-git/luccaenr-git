@@ -94,6 +94,10 @@
 <img src="logo-linkedin-icon.webp" width="40px" width="40px">
 </a>
 
+<a href="https://www.gmail.com">
+  <img src="gmail-logo-icon.jpg" width="40px" height="40px">
+</a> 
+
 </div>
 
 </div>
