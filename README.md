@@ -88,6 +88,12 @@
 
 </div>
 
+## Links
+
+<a href="https://www.linkedin.com/in/lucca-enriconi/">
+<img src="logo-linkedin-icon.webp" width="40px" width="40px">
+</a>
+
 </div>
 
 </div>
