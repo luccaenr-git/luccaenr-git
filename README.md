@@ -22,11 +22,10 @@
 ```
 
 
-<p><strong>Student of System Analysis and Development 4° Semester - Developer Full Stack<strong></p>
+<p><strong>System Analysis and Development 4° Semester - Developer Full Stack<strong></p>
   
   ## Stats
   
-![GitHub Streak](https://streak-stats.demolab.com?user=luccaenr-git&theme=transparent&hide_border=true&stroke=ffffff&ring=1B6BF7&fire=1B6BF7&currStreakLabel=1B6BF7&sideLabels=ffffff&dates=ffffff)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luccaenr-git&theme=github-compact&hide_border=true&area=true&color=1B6BF7&line=1B6BF7&point=#555555)
 
   ## Knowledge
@@ -44,15 +43,11 @@
 
 </div>
 
-  ## Repository
-
-<div style="display: inline_block"><br>
-<a href="https://www.linkedin.com/in/lucca-enriconi/" target="_blank">
-  <img src="brasil.png" width="40px" height="40px">
-
-</div>
-  </details>
   
+
+
+  </details>
+
 <h1><strong>Olá👋</strong></h1>
   
 ```
@@ -72,11 +67,10 @@
 ```
 
 
-<p><strong>Estudande de ADS 4° Semestre - Desenvolvedor Full Stack<strong></p>
+<p><strong>Análise e Desenvolvimento de Sistemas 4° Semestre - Desenvolvedor Full Stack<strong></p>
   
   ## Status
   
-![GitHub Streak](https://streak-stats.demolab.com?user=luccaenr-git&theme=transparent&hide_border=true&stroke=ffffff&ring=1B6BF7&fire=1B6BF7&currStreakLabel=1B6BF7&sideLabels=ffffff&dates=ffffff)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luccaenr-git&theme=github-compact&hide_border=true&area=true&color=1B6BF7&line=1B6BF7&point=#555555)
 
   ## Conhecimento
@@ -95,6 +89,7 @@
 </div>
 
 </div>
+
 </div>
 
 
