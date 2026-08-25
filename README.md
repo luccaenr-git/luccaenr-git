@@ -1,4 +1,15 @@
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+</head>
+
 <div align="center">
+
+<a> 
+<img src="purple-blackhole.gif">
+</a>
+
   <details>
     <summary><a href="https://www.linkedin.com/in/lucca-enriconi/" target="_blank">
   <img src="eua.png"  width="40px" height="40px">
